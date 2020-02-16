@@ -1,0 +1,59 @@
+C:\Users\Fisso\Documents\Programmi C#\A team\Prova Immagini\Prova Immagini\bin\Debug\Prova Immagini.exe.config
+C:\Users\Fisso\Documents\Programmi C#\A team\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.csprojResolveAssemblyReference.cache
+C:\Users\Fisso\Documents\Programmi C#\A team\Prova Immagini\Prova Immagini\obj\Debug\Prova_Immagini.Form1.resources
+C:\Users\Fisso\Documents\Programmi C#\A team\Prova Immagini\Prova Immagini\obj\Debug\Prova_Immagini.Properties.Resources.resources
+C:\Users\Fisso\Documents\Programmi C#\A team\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.csproj.GenerateResource.Cache
+C:\Users\Fisso\Documents\Programmi C#\A team\Prova Immagini\Prova Immagini\bin\Debug\Prova Immagini.exe
+C:\Users\Fisso\Documents\Programmi C#\A team\Prova Immagini\Prova Immagini\bin\Debug\Prova Immagini.pdb
+C:\Users\Fisso\Documents\Programmi C#\A team\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.exe
+C:\Users\Fisso\Documents\Programmi C#\A team\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.pdb
+C:\Users\Portatile\Desktop\A team\Prova Immagini\Prova Immagini\bin\Debug\Prova Immagini.exe.config
+C:\Users\Portatile\Desktop\A team\Prova Immagini\Prova Immagini\bin\Debug\Prova Immagini.exe
+C:\Users\Portatile\Desktop\A team\Prova Immagini\Prova Immagini\bin\Debug\Prova Immagini.pdb
+C:\Users\Portatile\Desktop\A team\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.csprojResolveAssemblyReference.cache
+C:\Users\Portatile\Desktop\A team\Prova Immagini\Prova Immagini\obj\Debug\Prova_Immagini.Form1.resources
+C:\Users\Portatile\Desktop\A team\Prova Immagini\Prova Immagini\obj\Debug\Prova_Immagini.Properties.Resources.resources
+C:\Users\Portatile\Desktop\A team\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.csproj.GenerateResource.Cache
+C:\Users\Portatile\Desktop\A team\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.exe
+C:\Users\Portatile\Desktop\A team\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.pdb
+C:\Users\Ale\Desktop\Prova Immagini\Prova Immagini\bin\Debug\Prova Immagini.exe.config
+C:\Users\Ale\Desktop\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.exe
+C:\Users\Ale\Desktop\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.pdb
+C:\Users\Ale\Desktop\Prova Immagini\Prova Immagini\bin\Debug\Prova Immagini.exe
+C:\Users\Ale\Desktop\Prova Immagini\Prova Immagini\bin\Debug\Prova Immagini.pdb
+C:\Users\Ale\Desktop\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.csprojResolveAssemblyReference.cache
+C:\Users\Ale\Desktop\Prova Immagini\Prova Immagini\obj\Debug\Prova_Immagini.Properties.Resources.resources
+C:\Users\Ale\Desktop\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.csproj.GenerateResource.Cache
+C:\Users\Ale\Desktop\Prova Immagini\Prova Immagini\obj\Debug\Prova_Immagini.CambiaColore.resources
+C:\Users\Ale\Desktop\Prova Immagini\Prova Immagini\obj\Debug\Prova_Immagini.Principale.resources
+C:\Users\alessio.perugini\Desktop\Prova Immagini\Prova Immagini\bin\Debug\Prova Immagini.exe.config
+C:\Users\alessio.perugini\Desktop\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.exe
+C:\Users\alessio.perugini\Desktop\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.pdb
+C:\Users\alessio.perugini\Desktop\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.csprojResolveAssemblyReference.cache
+C:\Users\alessio.perugini\Desktop\Prova Immagini\Prova Immagini\obj\Debug\Prova_Immagini.CambiaColore.resources
+C:\Users\alessio.perugini\Desktop\Prova Immagini\Prova Immagini\obj\Debug\Prova_Immagini.Principale.resources
+C:\Users\alessio.perugini\Desktop\Prova Immagini\Prova Immagini\obj\Debug\Prova_Immagini.Properties.Resources.resources
+C:\Users\alessio.perugini\Desktop\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.csproj.GenerateResource.Cache
+C:\Users\alessio.perugini\Desktop\Prova Immagini\Prova Immagini\bin\Debug\Prova Immagini.exe
+C:\Users\alessio.perugini\Desktop\Prova Immagini\Prova Immagini\bin\Debug\Prova Immagini.pdb
+E:\Varie\bitSync\Prova Immagini\Prova Immagini\bin\Debug\Prova Immagini.exe.config
+E:\Varie\bitSync\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.exe
+E:\Varie\bitSync\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.pdb
+E:\Varie\bitSync\Prova Immagini\Prova Immagini\bin\Debug\Prova Immagini.exe
+E:\Varie\bitSync\Prova Immagini\Prova Immagini\bin\Debug\Prova Immagini.pdb
+E:\Varie\bitSync\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.csprojResolveAssemblyReference.cache
+E:\Varie\bitSync\Prova Immagini\Prova Immagini\obj\Debug\Prova_Immagini.CambiaColore.resources
+E:\Varie\bitSync\Prova Immagini\Prova Immagini\obj\Debug\Prova_Immagini.Principale.resources
+E:\Varie\bitSync\Prova Immagini\Prova Immagini\obj\Debug\Prova_Immagini.Properties.Resources.resources
+E:\Varie\bitSync\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.csproj.GenerateResource.Cache
+C:\Users\Fisso\BitTorrent Sync\bitSync\Prova Immagini\Prova Immagini\bin\Debug\Prova Immagini.exe.config
+C:\Users\Fisso\BitTorrent Sync\bitSync\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.exe
+C:\Users\Fisso\BitTorrent Sync\bitSync\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.pdb
+C:\Users\Fisso\BitTorrent Sync\bitSync\Prova Immagini\Prova Immagini\bin\Debug\Prova Immagini.exe
+C:\Users\Fisso\BitTorrent Sync\bitSync\Prova Immagini\Prova Immagini\bin\Debug\Prova Immagini.pdb
+C:\Users\Fisso\BitTorrent Sync\bitSync\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.csprojResolveAssemblyReference.cache
+C:\Users\Fisso\BitTorrent Sync\bitSync\Prova Immagini\Prova Immagini\obj\Debug\Prova_Immagini.CambiaColore.resources
+C:\Users\Fisso\BitTorrent Sync\bitSync\Prova Immagini\Prova Immagini\obj\Debug\Prova_Immagini.Principale.resources
+C:\Users\Fisso\BitTorrent Sync\bitSync\Prova Immagini\Prova Immagini\obj\Debug\Prova_Immagini.Properties.Resources.resources
+C:\Users\Fisso\BitTorrent Sync\bitSync\Prova Immagini\Prova Immagini\obj\Debug\Prova Immagini.csproj.GenerateResource.Cache
+E:\Varie\bitSync\Prova Immagini\Prova Immagini\bin\Debug\RoboDog.exe.config

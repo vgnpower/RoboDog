@@ -1,0 +1,89 @@
+E:\Varie\bitSync\Prova Immagini\Prova Immagini\obj\Debug\RoboDog.CambiaColore.resources
+E:\Varie\bitSync\Prova Immagini\Prova Immagini\obj\Debug\RoboDog.Principale.resources
+E:\Varie\bitSync\Prova Immagini\Prova Immagini\obj\Debug\RoboDog.Properties.Resources.resources
+E:\Varie\bitSync\Prova Immagini\Prova Immagini\obj\Debug\RoboDog.csproj.GenerateResource.Cache
+E:\Varie\bitSync\Prova Immagini\Prova Immagini\bin\Debug\RoboDog.exe.config
+E:\Varie\bitSync\Prova Immagini\Prova Immagini\bin\Debug\RoboDog.exe
+E:\Varie\bitSync\Prova Immagini\Prova Immagini\bin\Debug\RoboDog.pdb
+E:\Varie\bitSync\Prova Immagini\Prova Immagini\obj\Debug\RoboDog.exe
+E:\Varie\bitSync\Prova Immagini\Prova Immagini\obj\Debug\RoboDog.pdb
+E:\Varie\bitSync\RoboDog\RoboDog\bin\Debug\RoboDog.exe.config
+E:\Varie\bitSync\RoboDog\RoboDog\obj\Debug\RoboDog.exe
+E:\Varie\bitSync\RoboDog\RoboDog\obj\Debug\RoboDog.pdb
+E:\Varie\bitSync\RoboDog\RoboDog\bin\Debug\RoboDog.exe
+E:\Varie\bitSync\RoboDog\RoboDog\bin\Debug\RoboDog.pdb
+E:\Varie\bitSync\RoboDog\RoboDog\obj\Debug\RoboDog.csprojResolveAssemblyReference.cache
+E:\Varie\bitSync\RoboDog\RoboDog\obj\Debug\RoboDog.CambiaColore.resources
+E:\Varie\bitSync\RoboDog\RoboDog\obj\Debug\RoboDog.Principale.resources
+E:\Varie\bitSync\RoboDog\RoboDog\obj\Debug\RoboDog.Properties.Resources.resources
+E:\Varie\bitSync\RoboDog\RoboDog\obj\Debug\RoboDog.csproj.GenerateResource.Cache
+C:\Users\Fisso\Documents\Programmi C#\A team\RoboDog\RoboDog\bin\Debug\RoboDog.exe.config
+C:\Users\Fisso\Documents\Programmi C#\A team\RoboDog\RoboDog\obj\Debug\RoboDog.exe
+C:\Users\Fisso\Documents\Programmi C#\A team\RoboDog\RoboDog\obj\Debug\RoboDog.pdb
+C:\Users\Fisso\Documents\Programmi C#\A team\RoboDog\RoboDog\bin\Debug\RoboDog.exe
+C:\Users\Fisso\Documents\Programmi C#\A team\RoboDog\RoboDog\bin\Debug\RoboDog.pdb
+C:\Users\Fisso\Documents\Programmi C#\A team\RoboDog\RoboDog\obj\Debug\RoboDog.csprojResolveAssemblyReference.cache
+C:\Users\Fisso\Documents\Programmi C#\A team\RoboDog\RoboDog\obj\Debug\RoboDog.CambiaColore.resources
+C:\Users\Fisso\Documents\Programmi C#\A team\RoboDog\RoboDog\obj\Debug\RoboDog.Principale.resources
+C:\Users\Fisso\Documents\Programmi C#\A team\RoboDog\RoboDog\obj\Debug\RoboDog.Properties.Resources.resources
+C:\Users\Fisso\Documents\Programmi C#\A team\RoboDog\RoboDog\obj\Debug\RoboDog.csproj.GenerateResource.Cache
+C:\Users\Fisso\Documents\Programmi C#\A team\RoboDog16.30.16\RoboDog\bin\Debug\RoboDog.exe.config
+C:\Users\Fisso\Documents\Programmi C#\A team\RoboDog16.30.16\RoboDog\obj\Debug\RoboDog.exe
+C:\Users\Fisso\Documents\Programmi C#\A team\RoboDog16.30.16\RoboDog\obj\Debug\RoboDog.pdb
+C:\Users\Fisso\Documents\Programmi C#\A team\RoboDog16.30.16\RoboDog\bin\Debug\RoboDog.exe
+C:\Users\Fisso\Documents\Programmi C#\A team\RoboDog16.30.16\RoboDog\bin\Debug\RoboDog.pdb
+C:\Users\Fisso\Documents\Programmi C#\A team\RoboDog16.30.16\RoboDog\obj\Debug\RoboDog.csprojResolveAssemblyReference.cache
+C:\Users\Fisso\Documents\Programmi C#\A team\RoboDog16.30.16\RoboDog\obj\Debug\RoboDog.CambiaColore.resources
+C:\Users\Fisso\Documents\Programmi C#\A team\RoboDog16.30.16\RoboDog\obj\Debug\RoboDog.Principale.resources
+C:\Users\Fisso\Documents\Programmi C#\A team\RoboDog16.30.16\RoboDog\obj\Debug\RoboDog.Properties.Resources.resources
+C:\Users\Fisso\Documents\Programmi C#\A team\RoboDog16.30.16\RoboDog\obj\Debug\RoboDog.csproj.GenerateResource.Cache
+C:\Users\Ale\Desktop\RoboDog16.30.16Aggiornato\RoboDog\bin\Debug\RoboDog.exe.config
+C:\Users\Ale\Desktop\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.exe
+C:\Users\Ale\Desktop\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.pdb
+C:\Users\Ale\Desktop\RoboDog16.30.16Aggiornato\RoboDog\bin\Debug\RoboDog.exe
+C:\Users\Ale\Desktop\RoboDog16.30.16Aggiornato\RoboDog\bin\Debug\RoboDog.pdb
+C:\Users\Ale\Desktop\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.csprojResolveAssemblyReference.cache
+C:\Users\Ale\Desktop\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.CambiaColore.resources
+C:\Users\Ale\Desktop\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.Principale.resources
+C:\Users\Ale\Desktop\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.Properties.Resources.resources
+C:\Users\Ale\Desktop\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.csproj.GenerateResource.Cache
+F:\RoboDog16.30.16Aggiornato\RoboDog\bin\Debug\RoboDog.exe.config
+F:\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.exe
+F:\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.pdb
+F:\RoboDog16.30.16Aggiornato\RoboDog\bin\Debug\RoboDog.exe
+F:\RoboDog16.30.16Aggiornato\RoboDog\bin\Debug\RoboDog.pdb
+F:\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.csprojResolveAssemblyReference.cache
+F:\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.CambiaColore.resources
+F:\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.Intro.resources
+F:\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.Principale.resources
+F:\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.Properties.Resources.resources
+F:\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.csproj.GenerateResource.Cache
+C:\Users\Portatile\Desktop\RoboDog16.30.16Aggiornato\RoboDog\bin\Debug\RoboDog.exe.config
+C:\Users\Portatile\Desktop\RoboDog16.30.16Aggiornato\RoboDog\bin\Debug\RoboDog.exe
+C:\Users\Portatile\Desktop\RoboDog16.30.16Aggiornato\RoboDog\bin\Debug\RoboDog.pdb
+C:\Users\Portatile\Desktop\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.csprojResolveAssemblyReference.cache
+C:\Users\Portatile\Desktop\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.CambiaColore.resources
+C:\Users\Portatile\Desktop\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.Intro.resources
+C:\Users\Portatile\Desktop\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.Principale.resources
+C:\Users\Portatile\Desktop\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.Properties.Resources.resources
+C:\Users\Portatile\Desktop\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.csproj.GenerateResource.Cache
+C:\Users\Portatile\Desktop\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.exe
+C:\Users\Portatile\Desktop\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.pdb
+E:\Varie\bitSync\RoboDog16.30.16Aggiornato\RoboDog\bin\Debug\RoboDog.exe.config
+E:\Varie\bitSync\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.exe
+E:\Varie\bitSync\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.pdb
+E:\Varie\bitSync\RoboDog16.30.16Aggiornato\RoboDog\bin\Debug\RoboDog.exe.manifest
+E:\Varie\bitSync\RoboDog16.30.16Aggiornato\RoboDog\bin\Debug\RoboDog.application
+E:\Varie\bitSync\RoboDog16.30.16Aggiornato\RoboDog\bin\Debug\RoboDog.exe
+E:\Varie\bitSync\RoboDog16.30.16Aggiornato\RoboDog\bin\Debug\RoboDog.pdb
+E:\Varie\bitSync\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.csprojResolveAssemblyReference.cache
+E:\Varie\bitSync\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.CambiaColore.resources
+E:\Varie\bitSync\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.Intro.resources
+E:\Varie\bitSync\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.Principale.resources
+E:\Varie\bitSync\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.Properties.Resources.resources
+E:\Varie\bitSync\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.csproj.GenerateResource.Cache
+E:\Varie\bitSync\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.TrustInfo.xml
+E:\Varie\bitSync\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.exe.manifest
+E:\Varie\bitSync\RoboDog16.30.16Aggiornato\RoboDog\obj\Debug\RoboDog.application
+E:\Varie\bitSync\RoboDog16.30.16Aggiornato\RoboDog\bin\Debug\LibRoboDogs.dll
+E:\Varie\bitSync\RoboDog16.30.16Aggiornato\RoboDog\bin\Debug\LibRoboDogs.pdb

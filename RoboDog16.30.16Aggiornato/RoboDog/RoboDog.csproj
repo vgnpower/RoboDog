@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8CC626AC-D14E-450E-96C5-D40D78D7EEBA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RoboDog</RootNamespace>
+    <AssemblyName>RoboDog</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>AlienAqua emule.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>9B33496531B2E109B03F22DC791DED842AE6556E</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>RoboDog_ChiaveTemporanea.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LibRoboDogs">
+      <HintPath>..\..\LibRoboDogs\LibRoboDogs\bin\Release\LibRoboDogs.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CambiaColore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CambiaColore.Designer.cs">
+      <DependentUpon>CambiaColore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Intro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Intro.Designer.cs">
+      <DependentUpon>Intro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principale.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principale.Designer.cs">
+      <DependentUpon>Principale.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CambiaColore.resx">
+      <DependentUpon>CambiaColore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Intro.resx">
+      <DependentUpon>Intro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principale.resx">
+      <DependentUpon>Principale.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barboncino-carattere-temperamento5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bulldog.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\golden-retriever.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cane_abbaia.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AlienAqua emule.ico" />
+    <None Include="Resources\bark.wav" />
+    <None Include="Resources\tmp-16.gif" />
+    <None Include="Resources\tmp-15.gif" />
+    <None Include="Resources\tmp-14.gif" />
+    <None Include="Resources\tmp-13.gif" />
+    <None Include="Resources\tmp-12.gif" />
+    <None Include="Resources\tmp-11.gif" />
+    <None Include="Resources\tmp-10.gif" />
+    <None Include="Resources\tmp-9.gif" />
+    <None Include="Resources\tmp-8.gif" />
+    <None Include="Resources\tmp-7.gif" />
+    <None Include="Resources\tmp-6.gif" />
+    <None Include="Resources\tmp-5.gif" />
+    <None Include="Resources\tmp-4.gif" />
+    <None Include="Resources\tmp-3.gif" />
+    <None Include="Resources\tmp-2.gif" />
+    <None Include="Resources\tmp-1.gif" />
+    <None Include="Resources\tmp-0.gif" />
+    <None Include="Resources\BullDogOre_Crin.png" />
+    <None Include="Resources\BullDogOrecchieGrandi.png" />
+    <None Include="Resources\BullDogOre+Coda.png" />
+    <None Include="Resources\BullDogCriniera.png" />
+    <None Include="Resources\BullDogCri+Cod.png" />
+    <None Include="Resources\BullDogConTutto.png" />
+    <None Include="Resources\BullDogCodaLunga.png" />
+    <None Include="Resources\BullDogCoda+Ore.png" />
+    <None Include="Resources\BullDogCod+crin.png" />
+    <None Include="Resources\GoldenRetrieverCod+Crin.png" />
+    <None Include="Resources\GoldenRetrieverOre+Crin.png" />
+    <None Include="Resources\GoldenRetrieverCrin+Cod.png" />
+    <None Include="Resources\GoldenRetrieverCod+Ore.png" />
+    <None Include="Resources\BarboncinoOrecchieLunghe.png" />
+    <None Include="Resources\BarboncinoOrecchie+Criniera.png" />
+    <None Include="Resources\BarboncinoCriniera.png" />
+    <None Include="Resources\BarboncinoCrin+Coda.png" />
+    <None Include="Resources\BarboncinoConTutto.png" />
+    <None Include="Resources\BarboncinoCodaLunga.png" />
+    <None Include="Resources\BarboncinoCoda+Orecchie.png" />
+    <None Include="Resources\BarboncinoImageRitagliata.png" />
+    <None Include="Resources\GoldenRetrieverCriniera.png" />
+    <None Include="Resources\GoldenRetrieverConTutto.png" />
+    <None Include="Resources\goldenretriever.png" />
+    <None Include="Resources\GoldenRetrieverConOrecchieLunghe.png" />
+    <None Include="Resources\GoldenRetrieverConCodaLunga.png" />
+    <None Include="Resources\OrecchieLungheBarboncino.png" />
+    <None Include="Resources\GoldenRetriever.wav" />
+    <None Include="Resources\cane Generico.wav" />
+    <None Include="Resources\Bulldog.wav" />
+    <None Include="Resources\Barboncino.wav" />
+    <None Include="Resources\golden_retriever.png" />
+    <None Include="Resources\cane_generico.png" />
+    <None Include="Resources\Bulldog.png" />
+    <None Include="Resources\barboncino.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

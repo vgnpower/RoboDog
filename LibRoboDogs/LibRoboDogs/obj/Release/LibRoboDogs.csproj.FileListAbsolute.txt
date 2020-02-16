@@ -1,0 +1,9 @@
+C:\Users\Ale\Desktop\LibRoboDogs\LibRoboDogs\bin\Release\LibRoboDogs.dll
+C:\Users\Ale\Desktop\LibRoboDogs\LibRoboDogs\bin\Release\LibRoboDogs.pdb
+C:\Users\Ale\Desktop\LibRoboDogs\LibRoboDogs\obj\Release\LibRoboDogs.dll
+C:\Users\Ale\Desktop\LibRoboDogs\LibRoboDogs\obj\Release\LibRoboDogs.pdb
+E:\Varie\bitSync\LibRoboDogs\LibRoboDogs\bin\Release\LibRoboDogs.dll
+E:\Varie\bitSync\LibRoboDogs\LibRoboDogs\bin\Release\LibRoboDogs.pdb
+E:\Varie\bitSync\LibRoboDogs\LibRoboDogs\obj\Release\LibRoboDogs.dll
+E:\Varie\bitSync\LibRoboDogs\LibRoboDogs\obj\Release\LibRoboDogs.pdb
+E:\Varie\bitSync\LibRoboDogs\LibRoboDogs\obj\Release\LibRoboDogs.csprojResolveAssemblyReference.cache
